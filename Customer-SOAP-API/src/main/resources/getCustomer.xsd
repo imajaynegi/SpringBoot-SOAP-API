@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 	targetNamespace="http://www.customer.com/spring/soap/api/getcustomer"
-	xmlns:tns="http://www.customer.com/spring/soap/api/getcustomer"
+	xmlns:cus="http://www.customer.com/spring/soap/api/getcustomer"
 	elementFormDefault="qualified">
 
 	<xsd:element name="CustomerRequest">

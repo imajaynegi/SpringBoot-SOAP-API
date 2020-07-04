@@ -3,7 +3,7 @@ package com.customer.spring.soap.api.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-import com.customer.model.Customer;
+import com.customer.spring.soap.api.model.Customer;
 
 
 
